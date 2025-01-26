@@ -1,0 +1,9 @@
+[submodule "Hardware"]
+	path = Hardware
+	url = https://github.com/MohammadAliHasanLafta/Farm-Dashboard-Hardware.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/MohammadAliHasanLafta/Farm-Dashboard-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/MohammadAliHasanLafta/Farm-Dashboard-Frontend.git
